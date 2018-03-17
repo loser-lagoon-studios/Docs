@@ -2,7 +2,7 @@ https://www.stemgames.org.au/files/STEM_2018_GDD.pdf
 # Game-Design-Document
 
 ## Team Members:
-* Emlyn
-* Hayden
-* Ben
-* Jay
+* Emlyn McInnes
+* Hayden Huges
+* Benjmin archabold
+* Jay taberner
