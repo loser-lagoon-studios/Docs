@@ -3,6 +3,6 @@ https://www.stemgames.org.au/files/STEM_2018_GDD.pdf
 
 ## Team Members:
 * Emlyn McInnes
-* Hayden Huges
+* Hayden Hughes
 * Benjamin Archbold
 * Jay Taberner
