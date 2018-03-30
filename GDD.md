@@ -59,7 +59,7 @@ https://www.stemgames.org.au/files/STEM_2018_GDD.pdf
 ## Resourcing/Capability:
 
 
-# Viuals/Artrk/Graphics
+# Visuals/Art/Graphics
 
 
 ## Style:
