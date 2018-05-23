@@ -24,7 +24,8 @@
 
 ## Game description:
 
--	Evil graphics king takes graphics from his citizens making them 8 bit
+-	Evil graphics king takes graphics from his citizens making them 8 bit.
+- He acts like he is helping the issue but infact is behind the cause of the lack of pixels for his kingdom.
 
 ## Audience:
 
@@ -47,7 +48,7 @@
 ## Objectives/Goals:
 
 - Defeat the dreaded Graphics thief.
-
+- The pixel bandits are contracted with stealing pixels from all the citizens of the kingdom and has secret support from the king to do so.
 ## Perspective:
 
 -	2D top down.
@@ -70,11 +71,11 @@
 
 ## Development Environment:
 
--	Unity3D
+-	Python/Pyglet
 
 ## System Requirements:
 
-- x86_64 Windows 10 or Linux PC
+- x86_64 Windows 10 and Linux PC
 
 ## Resourcing/Capability:
 
@@ -82,7 +83,7 @@
 
 # Visuals/Art/Graphics:
 
-- More difficult enemies increase detail.
+- Stronger enemies = increased detail.
 
 - Pixel art.
 
