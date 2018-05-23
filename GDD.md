@@ -9,10 +9,10 @@
 
 ## Team Members:
 
--   Emlyn McInnes
--   Hayden Hughes
--   Benjamin Archbold
--   Jay Taberner
+- Emlyn McInnes
+- Hayden Hughes
+- Benjamin Archbold
+- Jay Taberner
 
 ------------------------------------------------------------------------------------
 
@@ -24,15 +24,16 @@
 
 ## Game description:
 
--		evil graphics king takes graphics from his citizens making them 8 bit
+-	Evil graphics king takes graphics from his citizens making them 8 bit.
+- He acts like he is helping the issue but infact is behind the cause of the lack of pixels for his kingdom.
 
 ## Audience:
 
--   ppl who like gams
+- People who like RNG and role playing type games.
 
 ## Characters/Roles:
 
--   learning AI dude
+- Learning AI dude
 
 ## Environment:
 
@@ -42,23 +43,23 @@
 
 # Gameplay/Mechanics:
 
--   Stronger enemies have better graphics/higher resolution
+- Stronger enemies have better graphics/higher resolution.
 
 ## Objectives/Goals:
 
--   Defeat the dreaded Graphics thief
-
+- Defeat the dreaded Graphics thief.
+- The pixel bandits are contracted with stealing pixels from all the citizens of the kingdom and has secret support from the king to do so.
 ## Perspective:
 
--		2d top down
+-	2D top down.
 
 ## Controls:
 
--   Keyboard + mouse
+- Keyboard and Mouse
 
 ## Reference Points/Originality:
 
--   The final boss has some learning AI factors which it has gathered info from the player as they progresses throughout the game
+- The final boss has some learning AI factors which it has gathered info from the player as they progresses throughout the game.
 
 ------------------------------------------------------------------------------------
 
@@ -66,15 +67,15 @@
 
 ## Platform:
 
--   PC
+- PC
 
 ## Development Environment:
 
--		unity
+-	Python/Pyglet
 
 ## System Requirements:
 
-- 	windows 10
+- x86_64 Windows 10 and Linux PC
 
 ## Resourcing/Capability:
 
@@ -82,13 +83,13 @@
 
 # Visuals/Art/Graphics:
 
--   More difficult enemies increase detail.
+- Stronger enemies = increased detail.
 
-- 	Pixel art.
+- Pixel art.
 
 ## Style:
 
--   As the game progesses the Graphics increase. it starts out 8bit and goes to 16 bit the 32 then 64bit
+- As the game progesses the Graphics increase. it starts out 8bit and goes to 16 bit the 32 then 64bit.
 
 ## Process:
 
@@ -96,7 +97,7 @@
 
 ## Deadline:
 
--  August
+- August
 
 ## Timeline:
 
